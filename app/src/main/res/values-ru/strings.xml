@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Не тормози!</string>
+    <string name="ready">Вы&#10;готовы?</string>
+    <string name="timer">Таймер:</string>
+    <string name="attempts">Попытки:</string>
+    <string name="correct">Правильно!</string>
+    <string name="wrong">Неправильно!</string>
+    <string name="play_again">улучшить результат</string>
+    <string name="percent1">Вы были правы в</string>
+    <string name="percent2">% вопросов.</string>
+    <string name="result">Ваш резултьат</string>
+
+</resources>
